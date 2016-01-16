@@ -15,22 +15,20 @@ trivial if you want to graph the output, which this can do.
 Install
 -------
 
-`go get github.com/gaal/fld`
-
-`go get github.com/gaal/tally`
-
-`go get github.com/gaal/hist`
+`go get github.com/gaal/shstat/fld
+go get github.com/gaal/shstat/tally
+go get github.com/gaal/shstat/hist`
 
 These tools are distributed under the MIT/X license.
 
 Documentation
 -------------
 
-`godoc` [github.com/gaal/fld/fld](http://godoc.org/github.com/gaal/fld/fld)
+`godoc` [github.com/gaal/shstat/fld](http://godoc.org/github.com/gaal/shstat/fld)
 
-`godoc` [github.com/gaal/tally/tally](http://godoc.org/github.com/gaal/tally/tally)
+`godoc` [github.com/gaal/shstat/tally](http://godoc.org/github.com/gaal/shstat/tally)
 
-`godoc` [github.com/gaal/hist/hist](http://godoc.org/github.com/gaal/hist/hist)
+`godoc` [github.com/gaal/shstat/hist](http://godoc.org/github.com/gaal/shstat/hist)
 
 Beta
 ----
