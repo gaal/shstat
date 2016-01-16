@@ -16,7 +16,9 @@ Install
 -------
 
 `go get github.com/gaal/shstat/fld
+
 go get github.com/gaal/shstat/tally
+
 go get github.com/gaal/shstat/hist`
 
 These tools are distributed under the MIT/X license.
