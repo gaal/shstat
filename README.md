@@ -10,6 +10,13 @@ I may as well package them and save some repetition.
 
         ps aux | grep myproc | fld 2
 
+* `uni` identifies and enumerates Unicode characters. Credit Larry Wall
+  for the idea and original implementation.
+
+        uni 𝄞
+        uni math fraktur
+        uni 200a
+
 * `tally` sums columns from input. "sum" was taken because it runs
   a checksum on the linux distribution I use.
 
