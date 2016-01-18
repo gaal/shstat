@@ -36,8 +36,10 @@ Install
 -------
 
     go get github.com/gaal/shstat/fld
-    go get github.com/gaal/shstat/tally
     go get github.com/gaal/shstat/hist
+    go get github.com/gaal/shstat/tally
+    go get github.com/gaal/shstat/ucd
+    go get github.com/gaal/shstat/uni
 
 These tools are distributed under the MIT/X license.
 
@@ -45,8 +47,10 @@ Documentation
 -------------
 
 `godoc` [github.com/gaal/shstat/fld](http://godoc.org/github.com/gaal/shstat/fld)  
-`godoc` [github.com/gaal/shstat/tally](http://godoc.org/github.com/gaal/shstat/tally)  
 `godoc` [github.com/gaal/shstat/hist](http://godoc.org/github.com/gaal/shstat/hist)
+`godoc` [github.com/gaal/shstat/tally](http://godoc.org/github.com/gaal/shstat/tally)  
+`godoc` [github.com/gaal/shstat/ucd](http://godoc.org/github.com/gaal/shstat/ucd)  
+`godoc` [github.com/gaal/shstat/uni](http://godoc.org/github.com/gaal/shstat/uni)  
 
 Beta
 ----
