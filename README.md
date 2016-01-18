@@ -47,7 +47,7 @@ Documentation
 -------------
 
 `godoc` [github.com/gaal/shstat/fld](http://godoc.org/github.com/gaal/shstat/fld)  
-`godoc` [github.com/gaal/shstat/hist](http://godoc.org/github.com/gaal/shstat/hist)
+`godoc` [github.com/gaal/shstat/hist](http://godoc.org/github.com/gaal/shstat/hist) 
 `godoc` [github.com/gaal/shstat/tally](http://godoc.org/github.com/gaal/shstat/tally)  
 `godoc` [github.com/gaal/shstat/ucd](http://godoc.org/github.com/gaal/shstat/ucd)  
 `godoc` [github.com/gaal/shstat/uni](http://godoc.org/github.com/gaal/shstat/uni)  
